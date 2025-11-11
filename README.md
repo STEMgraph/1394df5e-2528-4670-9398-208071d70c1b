@@ -1,6 +1,7 @@
 <!---
 {
   "id": "1394df5e-2528-4670-9398-208071d70c1b",
+  "teaches": "From `printf` to `scanf`: Reading Input from Streams",
   "depends_on": ["279a01d6-7696-46b7-9cb7-2c44773ad06b"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-04-01",
